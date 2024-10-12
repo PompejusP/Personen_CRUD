@@ -1,0 +1,68 @@
+﻿@using  Web_FIA44_Person_Webanwendung.ViewModels
+@model List<Person>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Start</title>
+	<link href="~/libary/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+	<link href="~/libary/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head>
+<body class="bg-secondary">
+	<h1 class="text-center p-3 mb-2 bg-secondary text-info">🔍 Personen Informationen 🔎</h1>
+	<p class="d-flex justify-content-center"><a class="btn btn-outline-info align-content-center" href="/Home/Create">Person hinzufügen</a></p>
+    <form method="get" asp-controller="Home" asp-action="Index">
+    <p class="d-flex justify-content-center">
+       <input class="col-form-label-lg " type="text"  name="searchString" placeholder="Suche nach Namen" />
+		<button class="btn btn-outline-info" type="submit">Suchen</button>&nbsp;
+        <button class="btn btn-outline-info" asp-action="Index">Zurück</button>
+	</p>
+    </form>
+	
+    
+    <table class="table table-secondary table-hover table-striped-columns text-center ">
+        
+        <tr class=" table" >
+            <th class=" text-bg-info ">Pid</th>
+            <th class=" text-bg-info ">Vorname</th>
+            <th class=" text-bg-info ">Nachname</th>
+            <th class=" text-bg-info ">Geburtsdatum</th>
+            <th class=" text-bg-info ">Geschlecht</th>
+            <th class=" text-bg-info ">Brillenträger</th>
+            <th class=" text-bg-info ">Bemerkung</th>
+            <th class=" text-bg-info ">&nbsp;</th>
+        </tr>
+        
+        @foreach (Person person in Model )
+        {
+            <tr>
+                <th>@person.PiD</th>
+                <th>@person.Firstname</th>
+                <th>@person.Lastname</th>
+                <th>@person.Birthday.ToString("d")</th>
+				<th>@person.Gender</th>
+                <th>@(person.Glasses?"✅":"❌")</th>
+                <th>@person.Remark</th>
+                <td>
+                    <a class="link-body-emphasis link-underline-opacity-0" href="/Home/delete?PiD=@person.PiD" onclick="return confirm('Warnung\n @person.Firstname @person.Lastname wirklich löschen?')">🗑️</a>
+                    <a class="link-body-emphasis link-underline-opacity-0" href="/Home/update?PiD=@person.PiD">🧹</a>
+                    <a class="link-body-emphasis link-underline-opacity-0" href="/Home/details?PiD=@person.PiD">🔍</a>
+                </td>
+            </tr>
+
+            
+        }
+        </table>
+        <div>
+
+        <p>Erstellt von FIA_44</p>@*  <a class="btn btn-outline-info align-content-center" asp-action="Index">Zurück zur Übersicht</a> *@
+        </div>
+	
+</body>
+</html>

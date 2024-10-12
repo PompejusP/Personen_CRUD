@@ -1,0 +1,86 @@
+﻿@model Web_FIA44_Person_Webanwendung.ViewModels.Person
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Person hinzufügen</title>
+    <link href="~/libary/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head>
+<body class="bg-secondary">
+    <div class="container justify-content-center">
+
+<h4 class="text-center p-3 mb-2 bg-secondary text-info">Person hinzufügen</h4>
+<hr />
+<div class="row">
+    <div class="d-flex justify-content-center">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label text-info"></label>
+                <input asp-for="Firstname" class="form-control" />
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lastname" class="control-label text-info"></label>
+                <input asp-for="Lastname" class="form-control" />
+                <span asp-validation-for="Lastname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Birthday" class="control-label text-info"></label>
+                <input asp-for="Birthday" type="date" class="form-control" />
+                <span asp-validation-for="Birthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <fieldset>
+					<legend class="text-info">Geschlecht</legend>
+						
+                        <label asp-for="Gender" class="text-info">Männlich</label>
+                        <input type="radio" asp-for="Gender" class="form-check-input" id="m" value="Männlich" /><br />
+						<label asp-for="Gender" class="text-info">Weiblich</label>
+                            <input type="radio" asp-for=" Gender" class="form-check-input" id="w" value="Weiblich" />
+                            <br />
+						<label asp-for="Gender" class="text-info">Divers</label>
+                            <input type="radio" asp-for="Gender" class="form-check-input" id="d" value="Divers" />
+                        
+
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </fieldset>
+            </div>
+            <br />
+            <div class="form-group form-check">
+                <label class="form-check-label text-info">
+                    <input class="form-check-input" asp-for="Glasses" /> @Html.DisplayNameFor(model => model.Glasses)
+                </label>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="Remark" class="control-label text-info"></label>
+                <input asp-for="Remark" class="form-control" />
+                <span asp-validation-for="Remark" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Hinzufügen" class="btn btn-outline-info" />
+                    <a class="btn btn-outline-info align-content-center" asp-action="Index">Zurück zur Übersicht</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>
+</html>

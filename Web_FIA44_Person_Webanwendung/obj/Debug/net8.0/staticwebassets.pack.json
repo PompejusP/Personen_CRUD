@@ -1,0 +1,1669 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\alert.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\alert.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\base-component.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\base-component.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\button.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\button.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\carousel.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\collapse.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\modal.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\modal.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\offcanvas.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\popover.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\popover.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tab.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tab.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\toast.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\toast.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\config.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\index.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\swipe.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\dist\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\dist\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\index.esm.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\index.esm.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\index.umd.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\index.umd.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\alert.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\alert.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\base-component.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\base-component.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\button.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\button.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\carousel.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\carousel.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\collapse.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\collapse.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\data.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\data.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\event-handler.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\event-handler.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\manipulator.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\manipulator.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dom\\selector-engine.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dom\\selector-engine.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\dropdown.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\dropdown.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\modal.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\modal.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\offcanvas.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\offcanvas.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\popover.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\popover.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\scrollspy.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\scrollspy.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\tab.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\tab.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\toast.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\toast.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\tooltip.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\tooltip.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\backdrop.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\backdrop.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\component-functions.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\component-functions.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\config.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\config.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\focustrap.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\focustrap.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\index.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\index.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\sanitizer.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\sanitizer.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\scrollbar.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\swipe.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\swipe.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\js\\src\\util\\template-factory.min.js",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\js\\src\\util\\template-factory.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\license",
+      "PackagePath": "staticwebassets\\libary\\bootstrap"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\readme.md",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\readme.md"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\libary\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation-unobtrusive\\license.txt",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation-unobtrusive\\license.txt"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation-unobtrusive\\package.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation-unobtrusive\\readme.md",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation-unobtrusive\\readme.md"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_az.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_bn_bd.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_bn_bd.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_bn_bd.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_da.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_de.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_el.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es_ar.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es_ar.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es_ar.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es_ar.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es_pe.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es_pe.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_es_pe.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_es_pe.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_et.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_he.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hy_am.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hy_am.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_hy_am.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_hy_am.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_id.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_is.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_it.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_my.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_no.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pt_br.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pt_br.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pt_br.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pt_br.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pt_pt.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pt_pt.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_pt_pt.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_si.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_th.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_zh_tw.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_zh_tw.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\messages_zh_tw.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_de.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_es_cl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_es_cl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_es_cl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_es_cl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_it.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\dist\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\dist\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\license.md",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\license.md"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\package.json",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\package.json"
+    },
+    {
+      "Id": "D:\\FIA 44 Programmieren\\Web_FIA44_Person_Webanwendung\\Web_FIA44_Person_Webanwendung\\wwwroot\\libary\\jquery-validation\\readme.md",
+      "PackagePath": "staticwebassets\\libary\\jquery-validation\\readme.md"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_FIA44_Person_Webanwendung.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_FIA44_Person_Webanwendung.props",
+      "PackagePath": "build\\Web_FIA44_Person_Webanwendung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_FIA44_Person_Webanwendung.props",
+      "PackagePath": "buildMultiTargeting\\Web_FIA44_Person_Webanwendung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_FIA44_Person_Webanwendung.props",
+      "PackagePath": "buildTransitive\\Web_FIA44_Person_Webanwendung.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

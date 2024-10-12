@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+    "libraries": [
+
+        {
+            "library": "bootstrap@5.3.3",
+            "destination": "wwwroot/libary/bootstrap/"
+        },
+        {
+            "library": "jquery-validation@1.21.0",
+            "destination": "wwwroot/libary/jquery-validation/"
+        },
+        {
+            "provider": "jsdelivr",
+            "library": "jquery-validation-unobtrusive@4.0.0",
+            "destination": "wwwroot/libary/jquery-validation-unobtrusive/"
+        }
+    ]
+}

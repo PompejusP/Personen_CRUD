@@ -1,0 +1,79 @@
+﻿@model Web_FIA44_Person_Webanwendung.ViewModels.Person
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details über @Model.Firstname @Model.Lastname</title>
+    <link href="~/libary/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+    <link href="~/libary/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+</head> 
+        <body class="bg-secondary">
+            <div class="card text-center bg-body-secondary ">
+                <h4 class="text-center p-3 mb-2 bg-secondary text-info">@Model.Firstname @Model.Lastname</h4><br />
+
+
+        <dt class=" col align-self-center text-info text-decoration-underline ">
+            @Html.DisplayNameFor(model => model.PiD)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.PiD)
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Firstname)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Firstname)
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Lastname)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Lastname)
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Birthday)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Model.Birthday.ToString("d")
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Glasses)
+        </dt>
+                <dd class=" col align-self-center ">
+                @(Model.Glasses ? "✅" : "❌")
+        </dd>
+        <dt class=" col align-self-center text-info text-decoration-underline">
+            @Html.DisplayNameFor(model => model.Remark)
+        </dt>
+                <dd class=" col align-self-center text-dark">
+            @Html.DisplayFor(model => model.Remark)
+        </dd>
+    
+</div>
+            <hr />
+            <div>
+                <div class="d-flex justify-content-center ">
+                    <a class="btn btn-outline-info align-content-between" href="/Home/update?PiD=@Model.PiD">Editieren</a>&nbsp;&nbsp;
+            <a class="btn btn-outline-info align-content-between" href="/Home/delete?PiD=@Model.PiD" onclick="return confirm('Warnung\n @Model.Firstname @Model.Lastname wirklich löschen?')">Löschen</a>
+                </div>
+                <hr />
+                <div class="d-flex justify-content-center ">
+                    <a class="btn btn-outline-info align-content-center" asp-action="Index">Zurück zur Übersicht</a>
+                </div>
+                </div> 
+                
+
+    </body>
+</html>
